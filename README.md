@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alex2534
 - 👀 Ola estou interessado em oportunidades na area de desenvolvimento
-- 🌱 Eu Cursando analise e desenvolvimento de sistemas 
+- 🌱 Eu estou cursando analise e desenvolvimento de sistemas pelo SENAC 
 - 💞️ Estou disposto a ajudar em projetos
 - 📫 Posso ser contactado pelo meu email alex2534@outlook.com 
 - 👨🏻‍🎓 Tenho certificados em Java, JavaScript, ReactJs, React Native
